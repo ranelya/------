@@ -1,0 +1,26 @@
+.container {
+  background-color: #474747;
+  width: 1600px;
+  height: 778px;
+}
+
+.header-line {
+  /* justify-content: space-around; */
+  display: flex;
+align-items: center;
+}
+
+.logo-title{
+  color: antiquewhite;
+  width: 182px;
+  height: 38px;
+  top: 8px; 
+  left: 28px;
+  padding: 4px, 0px, 4.67px, 41.33px;}
+  
+
+  .logo-image{
+    width: 56px;
+    height: 55px;
+ 
+  }
